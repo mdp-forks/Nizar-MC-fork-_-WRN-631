@@ -4,8 +4,10 @@
 		"config:base"
 	],
 	"packageRules": [
+		{
 		"major": {
 			"dependencyDashboardApproval": true
 		}
+	}
 	]
 }
