@@ -5,11 +5,11 @@
   ]
   {
   "packageRules": [
-    {
+    
       "major": {
     "dependencyDashboardApproval": true
   }
-    }
+    
   ]
 }
 }
