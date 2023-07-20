@@ -7,9 +7,16 @@
 		{
 		"major": 
 			{
-			"dependencyDashboardApproval": true,
-			"extends": ["schedule:monthly"]
-		        }
+			 "dependencyDashboardApproval": true,
+			 "extends": ["schedule:monthly"]
+		        },
+		"minor":
+			{
+			 "automerge": true
+			 "schedule": [ "before 4am on Monday"]
+			}
+				
+			
 	       }
 	        ]
 }
