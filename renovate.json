@@ -12,7 +12,7 @@
 		        },
 		"minor":
 			{
-			 "automerge": true
+			 "automerge": true,
 			 "schedule": [ "before 4am on Monday"]
 			}
 				
